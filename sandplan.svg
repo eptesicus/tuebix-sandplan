@@ -18,7 +18,7 @@
    inkscape:export-filename="/tmp/sand.png"
    inkscape:export-xdpi="200.4194"
    inkscape:export-ydpi="200.4194"
-   sodipodi:docname="sandplan4.svg">
+   sodipodi:docname="sandplan.svg">
   <defs
      id="defs4412">
     <marker
@@ -275,14 +275,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3318551"
-     inkscape:cx="321.95522"
-     inkscape:cy="97.092625"
+     inkscape:zoom="1.6488706"
+     inkscape:cx="401.01228"
+     inkscape:cy="815.49212"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1030"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
      inkscape:window-x="0"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -304,7 +304,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2987,17 +2987,21 @@
        transform="matrix(0,-0.99946448,1.0005358,0,0,0)"
        sodipodi:linespacing="100%"
        id="text6566"
-       y="421.37054"
+       y="414.23206"
        x="-938.65082"
-       style="font-size:6.67852305999999984px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold;opacity:1"
+       style="font-size:6.67852306px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
        xml:space="preserve"><tspan
-         y="421.37054"
+         y="414.23206"
          x="-938.65082"
          id="tspan6568"
-         sodipodi:role="line">C424</tspan></text>
+         sodipodi:role="line">C424</tspan><tspan
+         y="420.91058"
+         x="-938.65082"
+         sodipodi:role="line"
+         id="tspan3588">(K2)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.67852305999999984px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       style="font-size:6.67852306px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
        x="390.27304"
        y="895.16986"
        id="text6570"
@@ -3006,7 +3010,11 @@
          sodipodi:role="line"
          id="tspan6572"
          x="390.27304"
-         y="895.16986">C412</tspan></text>
+         y="895.16986">C412</tspan><tspan
+         sodipodi:role="line"
+         x="390.27304"
+         y="901.84839"
+         id="tspan3586">(K1)</tspan></text>
     <text
        transform="matrix(0,-0.99946448,1.0005358,0,0,0)"
        sodipodi:linespacing="100%"

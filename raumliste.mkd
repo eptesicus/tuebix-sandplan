@@ -20,6 +20,6 @@ Raumliste
 | V3      |A301   |Sand 1, 2. OG  |64+16^[Die zusätzlichen Stühle können alternativ im Raum A104/V4 eingesetzt werden.] | Beamer, Whiteboard        |    |
 | W3      |A302   |Sand 1, 2. OG  |16        | Beamer, Whiteboard        |    |
 | ?       |B301   |Sand 13, 2. OG |12        | VM-Pool                   | Sonderworkshopraum^[Kann ggf. für den Gentoo-Workshop verwendet werden. Keine allgemeine Nutzung möglich.]    |
-| ?       |C412   |Sand 14, 3. OG |24        | Beamer, Whiteboard        |    |
-| ?       |C424   |Sand 14, 3. OG |12        | Beamer (VGA), Whiteboard  | Workshopraum    |
+| K1      |C412   |Sand 14, 3. OG |24        | Beamer, Whiteboard        | TecKids Raum 1   |
+| K2      |C424   |Sand 14, 3. OG |12        | Beamer (VGA), Whiteboard  | TecKids Raum 2   |
 
