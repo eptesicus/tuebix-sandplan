@@ -13,14 +13,14 @@ Raumliste
 | V1      |F119   |Sand 6, EG     |128       | Beamer, Tafel, Mikro      | Eröffnung und Abschluss   |
 | V2      |F122   |Sand 6, EG     |36+6      | Beamer, Tafel             |      |
 | Essen   |A104   |Sand 1, EG     |32        | Beamer, Whiteboard        | Essen und Soziales    |
-| V4      |C118a  |Sand 14, EG    |20?       | Beamer, Tafel             | Docker? (Evtl. Zusatzstühle)   |
+| V4      |C118a  |Sand 14, EG    |20?       | Beamer, Tafel             | Evtl. Zusatzstühle   |
 | Staff   |C124   |Sand 14, EG    |?         | ?                         | evtl. Materiallager             |
 | W1      |C109   |Sand 14, EG    |12        | Whiteboard                | Workshop^[Kein Beamer vorhanden!]       |
 | LPIC    |C215   |Sand 14, 1. OG |30+10     | Beamer, Whiteboard        | LPIC-Prüfungen            |
 | W2      |C311   |Sand 14, 2. OG |12        | Beamer (VGA), Whiteboard  | Kleiner Workshopraum      |
-| V3      |A301   |Sand 1, 2. OG  |64+16^[Die zusätzlichen Stühle können alternativ im Raum A104/V4 eingesetzt werden.] | Beamer, Whiteboard        |    |
+| V3      |A301   |Sand 1, 2. OG  |64+16^[Die zusätzlichen Stühle können auch in anderen Räumen eingesetzt werden.] | Beamer, Whiteboard        |  Lightning-Talks, Keysigning  |
 | W3      |A302   |Sand 1, 2. OG  |16        | Beamer, Whiteboard        |    |
-| ?       |B305.1 |Sand 13, 2. OG |12+8      | Beamer, Whiteboard        | Konferenzraum^[Noch nicht reserviert]  |
+| -       |B305.1 |Sand 13, 2. OG |12+8      | Beamer                    | Nicht verfügbar  |
 | K1      |C412   |Sand 14, 3. OG |24        | Beamer, Whiteboard        | TecKids Raum 1   |
 | K2      |C424   |Sand 14, 3. OG |12        | Beamer (VGA), Whiteboard  | TecKids Raum 2   |
 
